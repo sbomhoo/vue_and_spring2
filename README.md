@@ -17,7 +17,7 @@
 - Vue.js에서 입력한 값들을 Rest에 PUT하고 Spring 콘솔창에 출력하기
 + datePicker 라이브러리를 이용하여 날짜 받아오고 이를 백단으로 넘김
 
-
+## 구현 화면
 ![이미지001](./img/img001.png)  
 ![이미지001](./img/img002.png)  
 
